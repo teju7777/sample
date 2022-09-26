@@ -1,0 +1,5 @@
+#ignore teju.txt
+*.log
+#ignore the test folder
+test1/
+
